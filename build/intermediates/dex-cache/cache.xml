@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Anonymous\Desktop\filewarp_1435935655302\FileWarp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="C:\Users\Anonymous\Desktop\filewarp_1435935655302\FileWarp\app\build\intermediates\pre-dexed\release\classes-272ea80a2eacce934d5c39d0f890242c5e8eb550.jar" />
+    </item>
+    <item
+        jar="F:\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="C:\Users\Anonymous\Desktop\filewarp_1435935655302\FileWarp\app\build\intermediates\pre-dexed\release\support-annotations-22.0.0-a5f776dadeac22e8c03e5c793c8f9b091db34795.jar" />
+    </item>
+    <item
+        jar="C:\Users\Anonymous\Desktop\filewarp_1435935655302\FileWarp\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\Users\Anonymous\Desktop\filewarp_1435935655302\FileWarp\app\build\intermediates\pre-dexed\release\internal_impl-22.0.0-474e05a7e445d35d4d0072887e79ca3917da9cc7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Anonymous\Desktop\filewarp_1435935655302\FileWarp\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\Users\Anonymous\Desktop\filewarp_1435935655302\FileWarp\app\build\intermediates\pre-dexed\release\classes-844e6adfef863059e1a169393be0eebdff0e6245.jar" />
+    </item>
+
+</items>

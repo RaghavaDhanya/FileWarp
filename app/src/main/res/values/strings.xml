@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FileWarp</string>
+    <string name="Main">You can select either to send or receive File.</string>
+    <string name="send">SEND FILE</string>
+    <string name="Receive">RECEIVE FILE</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_send">Send</string>
+    <string name="add_button">ADD</string>
+    <string name="title_activity_file__browser">File_Browser</string>
+    <string name="Files">Files</string>
+    <string name="add">add</string>
+    <string name="title_activity_mp3_browser">mp3_browser</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="Default_path">Default File Selection Path</string>
+    <string name="Mp3_path">Default mp3 Selection Path</string>
+    <string name="about">About</string>
+    <string name="developer" translatable="false">Raghava G Dhanya</string>
+    <string name="others">Thanks for support of </string>
+    <string name="others_name" translatable="false">Abhijith C\nSubhrajyoti Sen\nSteve Jerold</string>
+    <string name="filePath">Set as startup Folder for File</string>
+    <string name="mp3Path">Set as startup Folder for mp3</string>
+    <string name="ext">Extracted</string>
+    <string name="ic_empty">Sad Smiley</string>
+    <string name="ic_empty_text">It feels lonely here,add files using + button</string>
+    <string name="fab_done">Done button</string>
+    <string name="title_activity_extracted">Extracted</string>
+    <string name="hello_world">Hello world!</string>
+
+</resources>

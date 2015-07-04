@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+<item
+    android:title="@string/filePath"
+
+    android:id="@+id/pathSelect"
+    />
+    <item
+        android:title="@string/mp3Path"
+        android:id="@+id/mp3Select"
+        />
+</menu>

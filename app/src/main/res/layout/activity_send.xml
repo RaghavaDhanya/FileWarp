@@ -1,0 +1,69 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/parent"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="top|center"
+    android:orientation="vertical"
+    android:animateLayoutChanges="true">
+    <android.support.v7.widget.Toolbar xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/actionBar"
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:minHeight="?attr/actionBarSize"
+        android:background="#ffff6f01"
+        app:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
+        app:popupTheme="@style/ThemeOverlay.AppCompat.Light"
+        />
+
+    <View
+        android:layout_below="@id/actionBar"
+        android:id="@+id/toolbar_shadow"
+        android:layout_width="match_parent"
+        android:layout_height="3dp"
+        android:background="@drawable/toolbar_dropshadow" />
+
+    <ListView
+        android:layout_below="@id/actionBar"
+        android:id="@android:id/list" android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+
+        <ImageButton style="@style/AppTheme"
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            android:id="@+id/fab_button"
+            android:background="@drawable/fab"
+            android:src="@drawable/ic_fab"
+            android:contentDescription="@string/fab_done"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:layout_marginBottom="24dp"
+            android:layout_marginRight="10dp"
+            />
+<LinearLayout
+    android:layout_below="@id/actionBar"
+    android:id="@+id/layout_empty"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+
+    android:gravity="center">
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/ic_empty"
+        android:contentDescription="@string/ic_empty"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/ic_empty_text"
+        android:textStyle="italic"
+        />
+    </LinearLayout>
+
+
+
+</RelativeLayout>
+

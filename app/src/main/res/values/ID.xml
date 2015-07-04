@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="Dynamic_Button" type="id"/>
+    <item name="Dyanamic_Button_2" type="id"/>
+    <item name="Asyncbar" type="id"/>
+    <item name="progressText" type="id"/>
+</resources>
