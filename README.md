@@ -1,4 +1,5 @@
 # FileWarp
+(Deprecated, WhatsApp now allows file sending)
 This android app is aimed to send files through the messengers that don't allow files to send(one of which is WhatsApp).Through a series of algorithm the selected files are masked by mp3 which then can be sent through the messengers.
 The mp3 output from the app is playable so the messengers allow them through.
 
